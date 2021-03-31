@@ -1,0 +1,416 @@
+
+/* logo:*/
+.logo_style{
+width: 25%;
+}
+.header_line{
+border-color: #636363;
+border-width: 2px;
+border-style: solid;
+margin-bottom:2%; 
+}
+/* ====================*/
+/* footer:*/
+.footer_style{
+	width: 100%;
+   height:320px;
+   	margin-top: 11%;
+}
+.footer_text{
+	margin-top: -10%;
+	 font-size: 17px;
+	 color: #ba283e;
+
+}
+/* ====================*/
+/* links:*/
+.links_div{
+	background-color: #eaeaea;
+	float: right;
+	margin-top: -4.9%;
+	width: 28%;
+	max-width: 28%;
+	height: 490px;
+	max-height: 490px;
+	
+}
+.titleLinks{
+	color: #ba283e;
+	 font-size: 20px;
+}
+/* ====================*/
+/* welcome:*/
+.welcomeDiv{
+float: left;
+	margin-top: -39.28%;
+
+}
+.welcomeImg{
+	width: 86.45%;
+   height:490px;	
+}
+/* ====================*/
+/* what:*/
+.what{
+	border-color: #ff4965;
+	margin-top:  34.5%;
+	border-radius: 5px;
+	border-style: dashed;
+	 border-width: 4px;
+	 background-color: #fff7f8;
+}
+.Q{
+	margin-top: 10%;
+	font-size:24px;
+	color: #37c6ca;
+	margin-left: 2%;
+	margin-bottom: 1%;
+}
+.Ans{
+margin-left: 2%;
+font-size:20px;	
+color:#636363;
+}
+.video{
+	margin-left:53%;
+	margin-top: -20.5%;
+}
+/* ====================*/
+/* benefit:*/
+.benefit{
+	margin-top: 3%;
+		width: 70%;
+   height:290px;
+}
+
+/* ====================*/
+/* log-in style */
+.log-inForm{
+	width:30%;
+	height: 50%;
+	margin-top: -33.5%;
+	margin-left: 13.8%;
+}
+.log-inField{
+	border-radius: 5px;
+	background-color:#e0e2e4;
+    border-color: #e0e2e4;
+	border-style: solid;
+}
+.log-inDiv{
+background-color: white;
+border-radius: 5px;	
+}
+.log-inHeader{
+height: 60px;
+width: 100%;
+margin-left: -3%;
+border-radius: 5px;
+}
+.log-inHeaderLabel{
+font-size: 140%;
+margin-top: 13%;	
+color:#454140;
+}
+.loginLable{
+	font-weight: bold;
+	color: #454140;
+}
+.logininput{
+	 display: block;
+
+}
+.loginBackground{
+	margin-top: -2%;
+	height: 505px;
+	width: 100%;
+	 opacity: 0.3;
+	 z-index: -1;
+	 position: relative;
+}
+/* ====================*/
+/* startLink style */
+.startLink{
+	font-weight: bold;
+	color: #636363;
+	font-size:24px;
+	float: right;
+	margin-top: -9%;
+	margin-right: 3%;
+}
+.signupIcon{
+margin-right: 11%;
+float: right;
+margin-top: -9%;
+}
+.loginIcon{
+margin-right: 10.5%;
+float: right;
+margin-top: -9%;
+}
+.ChangeIcon{
+margin-right: 18%;
+float: right;
+margin-top: -9%;
+}
+.logoutIcon{
+	margin-right: 18%;
+float: right;
+margin-top: -9%;
+height: 40px;
+}
+/* ====================*/
+/* sign-up style */
+.signupBackground{
+	margin-top: -2%;
+	height: 505px;
+	width: 100%;
+	 opacity: 0.7;
+	 z-index: -1;
+	 position: relative;
+}
+.Sign-UpForm{
+
+	width:60%;
+	height: 120px;
+margin-top: -37.5%;
+margin-left: 30.5%;
+}
+.Sign-UpField{
+
+	border-radius: 5px;
+	background-color: #d7f4f4;
+    border-color: #d7f4f4;
+	border-style: solid;
+}
+.Sign-UpDiv{
+background-color: white;
+border-radius: 5px;	
+height: 140%;
+
+}
+.Sign-UpHeader{
+
+height: 60px;
+width: 100%;
+margin-left: -3%;
+border-radius: 5px;
+}
+.Sign-UpHeaderLabel{
+	
+font-size: 140%;
+margin-top: 13%;	
+color: #37c6ca;
+}
+.singLable{
+   margin-left: 5%;
+	font-weight: bold;
+	color: #37c6ca;
+}
+.singinput{
+
+	 display: inline-block;
+
+}
+
+/* ====================*/
+/* links style */
+.links_style{
+color: #37c6ca;
+font-size: 110%;
+}
+.linsHR{
+border-color: #f8e666;
+border-width: 1px;
+border-style: dotted;
+ 	
+}
+
+/* ====================*/
+/* change password style */
+
+.contForm{
+	width:40%;
+	margin-top: -34.9%;
+float: right;
+margin-right: 10%;
+}
+.contField{
+	border-radius: 5px;
+	background-color: #e0e2e4;
+    border-color: #e0e2e4;
+	border-style: solid;
+}
+.contDiv{
+background-color: white;
+border-radius: 5px;	
+}
+.contHeader{
+height: 50px;
+width: 100%;
+margin-left: -3%;
+border-radius: 5px;
+}
+.contHeaderLabel{
+font-size: 140%;	
+color: #454140;
+}
+.contLable{
+	font-weight: bold;
+	color: #454140;
+	margin-left: -69%;
+}
+.continput{
+	 display: block;
+   width: 300px;
+}
+.contBackground{
+	margin-top: -2%;
+	height: 478px;
+	width: 100%;
+	 opacity: 0.3;
+	 z-index: -1;
+	 position: relative;
+}
+/* ====================*/
+/* companies */
+.Companiestable{
+	border: 2px solid #c3c1bc;
+	 border-collapse: collapse;
+	 margin: 2%;
+
+}
+.star{
+	color: red;
+}
+.CompaniesTitle{
+		font-size: 140%;
+    color: #37c6ca;
+}
+.comhead{
+	background-color: #f3f3f1;
+	font-size: 120%;
+	padding: 20%;
+}
+.comptext{
+	  text-align: center;
+	  font-size: 120%;
+}
+.Sourcetext{
+	  text-align: center;
+	  font-size: 110%;
+}
+/* ====================*/
+/* create*/
+.CreateProject{
+width: 80%;
+border-color: #37c6ca;
+border-radius: 5px;
+border-style: dashed;
+border-width: 2px;
+background-color: #ebf9fa;
+}
+
+.createDiv{
+margin-top: 1%;
+margin-left: 14.5%;
+}
+.creartetext{
+	color: #ff99a8;
+	font-weight: bold;
+}
+/*=====================================*/
+/* energy page*/
+.energy{
+border-color: #ff4965;
+border-radius: 1px;
+border-style: solid;
+border-width: 3px;
+background-color: #fff7f8;
+height: 446px;
+max-height: 446px;
+width: 37.4%;
+max-width: 37.4%;
+margin-top:-35.9%;
+float: right;
+/*position:relative;*/
+z-index: -1;
+}
+/*=========================================*/
+/* settings */
+.settinsDiv{
+border-color: #636363;
+background-color: #e6e6e6;
+border-width: 2px;
+border-style: solid;
+height: 520px;
+max-height: 520px;
+width: 55%;
+max-width: 55%;	
+float: left;
+font-weight: bold;
+margin-top: 1.9%;
+margin-left: 21.7%;
+
+}
+.name{
+border-color: #f8e666;
+border-width: 2px;
+border-style: solid;
+color:#f8e666;
+background-color: #fff9e6;
+
+}
+.add_num{
+border-color: #ff4965;
+border-width: 2px;
+border-style: solid;
+color:#ff4965;
+background-color: #ffe6e9;	
+}
+.pass{
+border-color: #37c6ca;
+border-width: 2px;
+border-style: solid;
+color:#37c6ca;
+background-color: #ebf9fa;	
+}
+.changeLable{
+	font-weight: bold;
+	color: #454140;
+
+}
+.changeinput{
+	 display: inline-block;
+width: 50%;
+}
+/*--------------------------------*/
+/*=========================================*/
+/* Bar menu */
+#navbar {
+  overflow: hidden;
+  background-color: #8c8c8c;
+  margin-top: -2%;
+
+}
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color: #eaeaea;
+  color: black;
+  color: #37c6ca;
+}
+
+#navbar a.active {
+  background-color: #ff8093;  
+  color: white;
+}
+
